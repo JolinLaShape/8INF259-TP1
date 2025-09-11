@@ -128,6 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="8INF259-TP1.cpp" />
+    <ClCompile Include="Cours.cpp" />
+    <ClCompile Include="Etudiant.cpp" />
+    <ClCompile Include="Professeur.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\8INF259-TP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|solutionrelative:8INF259-TP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Cours.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|solutionrelative:Cours.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Etudiant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|solutionrelative:Etudiant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Professeur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|solutionrelative:Professeur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cours.cpp",
+              "DocumentMoniker": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Cours.cpp",
+              "RelativeDocumentMoniker": "Cours.cpp",
+              "ToolTip": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Cours.cpp",
+              "RelativeToolTip": "Cours.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T00:18:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Etudiant.cpp",
+              "DocumentMoniker": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Etudiant.cpp",
+              "RelativeDocumentMoniker": "Etudiant.cpp",
+              "ToolTip": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Etudiant.cpp",
+              "RelativeToolTip": "Etudiant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T00:17:44.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professeur.cpp",
+              "DocumentMoniker": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Professeur.cpp",
+              "RelativeDocumentMoniker": "Professeur.cpp",
+              "ToolTip": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\Professeur.cpp",
+              "RelativeToolTip": "Professeur.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T00:17:12.525Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "8INF259-TP1.cpp",
               "ToolTip": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\8INF259-TP1.cpp",
               "RelativeToolTip": "8INF259-TP1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-10T23:54:20.851Z",
               "EditorCaption": ""

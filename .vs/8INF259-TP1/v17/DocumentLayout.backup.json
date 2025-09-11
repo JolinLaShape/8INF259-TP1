@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\8INF259-TP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68EB8128-BE00-43A5-AC65-EFC8F931C803}|8INF259-TP1.vcxproj|solutionrelative:8INF259-TP1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8INF259-TP1.cpp",
+              "DocumentMoniker": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\8INF259-TP1.cpp",
+              "RelativeDocumentMoniker": "8INF259-TP1.cpp",
+              "ToolTip": "C:\\Users\\pjolin\\Desktop\\8INF259-TP1\\8INF259-TP1.cpp",
+              "RelativeToolTip": "8INF259-TP1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T23:54:20.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
