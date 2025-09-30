@@ -21,7 +21,7 @@ int main()
 {
 
 	
-	
+	/*
 	    // Chemin du fichier source
         char fichierProfesseur[] = "C:\\Users\\Philip\\Desktop\\8INF259-TP1\\PF.txt";
 
