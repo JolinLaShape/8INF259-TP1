@@ -1,2 +1,11 @@
 ﻿  8INF259-TP1.cpp
-  8INF259-TP1.vcxproj -> C:\Users\pjolin\Documents\8INF259-TP1\x64\Debug\8INF259-TP1.exe
+C:\Users\Philip\Desktop\8INF259-TP1\Cours.cpp(2,10): error C1014: too many include files: depth = 1024
+  Cours.cpp
+C:\Users\Philip\Desktop\8INF259-TP1\Cours.cpp(2,10): error C1014: too many include files: depth = 1024
+  DossierProfesseur.cpp
+C:\Users\Philip\Desktop\8INF259-TP1\Cours.cpp(2,10): error C1014: too many include files: depth = 1024
+  Etudiant.cpp
+C:\Users\Philip\Desktop\8INF259-TP1\Etudiant.cpp(2,10): error C1014: too many include files: depth = 1024
+  Professeur.cpp
+C:\Users\Philip\Desktop\8INF259-TP1\Etudiant.cpp(2,10): error C1014: too many include files: depth = 1024
+  Generating Code...
